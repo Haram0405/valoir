@@ -1,0 +1,7 @@
+{
+  "name": "VALOIR Beauty",
+  "description": "Luxurious, modern cosmetics, makeup, and skincare brand website crafted with intention and elegant editorial aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
